@@ -58,16 +58,11 @@ input[value="Получить бесплатно"]:active {
 }
 
 .input-roulette {
-  padding-left: 5px;
+  padding-left: 8px;
   height: 42px;
+  width: 220px!important;
   margin-bottom: 10px;
-  width: auto !important;
-}
-
-input[placeholder="Ваше имя"], input[placeholder="Ваш телефон"] {
-  padding-left: 5px;
-  height: 42px;
-  margin-bottom: 10px;
+  font-size: 16px;
 }
 
 .ruletka-p {
